@@ -1,0 +1,10 @@
+diff --git a/JackTest.txt b/JackTest.txt
+index 24f1290..4b282a9 100644
+--- a/JackTest.txt
++++ b/JackTest.txt
+@@ -1 +1,2 @@
+-Learning how to add files to my GitHub repository.
+\ No newline at end of file
++Learning how to add files to my GitHub repository.
++Not sure I like the way files are displayed in SourceTree.
+\ No newline at end of file
